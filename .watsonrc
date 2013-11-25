@@ -1,0 +1,31 @@
+# watson rc
+# watson - inline issue manager
+# [goosecode] labs 
+
+
+# Directories 
+[dirs] 
+./
+
+ 
+# Tags 
+[tags] 
+fix
+review
+todo
+
+
+# Ignores
+[ignore]
+.git
+*.swp
+
+
+[github_api]
+4ce3c96d260b7eea62384d162d2cbf5e4c7702ea
+
+
+[github_repo]
+kzdev/watson_test
+
+
